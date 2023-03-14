@@ -13,6 +13,15 @@ padding: 20px;
 max-width: 800px;
 }
 
+img {
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+  vertical-align: middle;
+  border-radius: 15px;
+  margin: 0px 50px 0px 50px; /* Adjusted margin */
+}
+
 /* ID Selector */
 header {
 text-align: center;
